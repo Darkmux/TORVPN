@@ -1,2 +1,8 @@
 # TORVPN
 INSTALACIÓN DE TORVPN PARA TERMUX (THE ONION ROUTER).
+# INSTALACIÓN
+chmod 777 torvpn.sh
+# USO
+bash torvpn.sh
+# Creado por Darkmux
+# WHITE HACKS ©2020
