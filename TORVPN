@@ -2,6 +2,7 @@
 verde='\033[32m'
 blanco='\033[37m'
 rojo='\033[31m'
+morado='\033[35m'
 trap ctrl_c 2
 function ctrl_c() {
 echo -e "${rojo}
