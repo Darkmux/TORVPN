@@ -1,6 +1,6 @@
 # TORVPN
-Es un script que nos permite instalar {TOR(The Onion Router)} en nuestra terminal termux junto con 4 comandos adicionales que facilitan el uso de ésta VPN, los cuales son:
-#
+Es un script que nos permite instalar {TOR(The Onion Router)} en nuestra terminal termux junto con 4 comandos adicionales que facilitan el uso de ésta VPN.
+# ADDITIONAL COMMANDS
 * TORVPN - Conecta a la red {TOR(THE ONION ROUTER)}.
 #
 * ShowIP - Muestra la IP asignada por el ISP.
@@ -8,7 +8,7 @@ Es un script que nos permite instalar {TOR(The Onion Router)} en nuestra termina
 * ProxyIP - Muestra la IP asignada por el proxy.
 #
 * ChangeIP - Cambia la IP asignada por el proxy.
-# DEFAULT COMMANDS INSTALLED
+# COMMANDS INSTALLED BY DEFAULT
 * tor
 #
 * torsocks
@@ -19,3 +19,4 @@ Es un script que nos permite instalar {TOR(The Onion Router)} en nuestra termina
 #
 * w3m
 # DEMO
+![alt text](https://github.com/Darkmux/TORVPN/blob/main/TORVPN.png)
